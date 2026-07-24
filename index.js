@@ -1,7 +1,7 @@
 // Chiste geek: ¿Por qué los programadores prefieren el té?
 // Porque el café se compila, pero el té se interpreta ☕
 
-const amigos = ["Ana", "Luis", "Carlos", "Marta"];
+const amigos = ["Ana", "Jerson", "Carlos", "Marta"];
 
 // Función para generar saludos personalizados
 function saludarEquipo(nombres) {
